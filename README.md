@@ -36,7 +36,7 @@ The framework changes where a fix belongs; the user-visible problem still needs 
 An aggregate score can help detect regressions.
 Issue-level evidence explains what needs to change.
 
-![Website audit findings connected to measured browser behavior and affected source components](FOTO)
+![Website audit findings connected to measured browser behavior and affected source components](https://s.dou.ua/CACHE/images/img/static/companies/SWQ-logo_Black/1176898f6933c9536fb5f182e409792d.png)
 
 ## Available skills
 
@@ -128,8 +128,6 @@ See the maintained [Web Vitals guidance](https://web.dev/articles/vitals) for de
 
 A faster lab run is evidence about that test.
 Confirming a field improvement requires new visitor measurements.
-
-![Performance trace and field metrics compared before and after a focused website change](FOTO)
 
 ### accessibility
 
